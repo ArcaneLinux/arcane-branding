@@ -1,0 +1,37 @@
+# Arcane Banner Wallpaper Color
+
+# ============= COLORS ============ #
+## ============= Red ============ ##
+Background: 
+Hue Layer: 
+Text Color: 
+
+## ============= Orange ============ ##
+Background: 
+Hue Layer: 
+Text Color: 
+
+## ============= Yellow ============ ##
+Background: 
+Hue Layer: 
+Text Color: 
+
+## ============= Green ============ ##
+Background: #0C130D | RGB: 12, 19, 13 
+Hue Layer: #162819 | RGB: 22, 40, 25
+Text Color: #BDCAC0 | RGB: 189, 202, 192
+
+## ============= Blue ============ ##
+Background:
+Hue Layer: 
+Text Color: 
+
+## ============= Indigo ============ ##
+Background: 
+Hue Layer: 
+Text Color: 
+
+## ============= Violet ============ ##
+Background: 
+Hue Layer:
+Text Color: 
