@@ -8,6 +8,13 @@ A repo for all the branding projects for Arcane Linux. This contains everything 
 2. **Darkwave** - Synthwave inspirated theme with faded wallpaper, and blkac backgrounds, and purple accents.
 3. **Lightwave** - Synthwave inspired theme with standard wallpaper, and pink, cyan, and purple accents. Light theme option.
 4. **Galactic** - Purple and Cyan color (Think plaentary duality) with the new JWST photos, and colorized to be purple and cyan.
+5. **Redwood** -
+6. **Autumn** -
+7. **Lemon** -
+8. **Alpine** -
+9. **Denim** -
+10. **Azure** -
+11. **Lilac** -
 
 ### Requirements for Themes
 All themes must have the following included:
